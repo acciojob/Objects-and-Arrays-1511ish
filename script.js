@@ -14,6 +14,6 @@ function fun(player) {
 	team1[i++] = player;
 }
 
-let cap1
+let cap1 = {...person};
 
 export {players,person,team,team1,cap1}
